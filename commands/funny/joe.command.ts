@@ -7,7 +7,7 @@ export default {
     delete: true,
     //slash: true,
     //ephermeral: true,
-    testOnly: true,
+    //testOnly: true,
 
 
     callback: ({ message }) => {
