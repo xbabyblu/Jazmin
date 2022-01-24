@@ -1,5 +1,5 @@
 import { ICommand } from "wokcommands";
-
+// TODO: FIGURE THIS SHIT OUT
 export default {
     name: 'yell',
     category: 'Funny',
